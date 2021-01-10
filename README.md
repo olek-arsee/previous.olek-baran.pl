@@ -9,4 +9,4 @@ Everything has been done.
 ## Authors
 
 - Aleksander Baran ( front-end )
-- Paweł Lidwin ( back-end)
+- Paweł Lidwin ( back-end )
